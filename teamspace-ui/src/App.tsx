@@ -1,5 +1,5 @@
 import "./App.css";
-import logo from "./TeamSeasLogo.png";
+import logo from "./TeamSpaceLogo.png";
 import "@fontsource/montserrat"; // Defaults to weight 400.
 import "@fontsource/montserrat/700.css"; // for font-bold
 import "@fontsource/montserrat/300.css"; // for font-light
@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="container mx-auto">
       <img className="mx-auto mb-20" src={logo} alt="logo"></img>
-      <h4 className="text-center text-5xl font-bold underline mb-10">
+      <h4 className="text-center text-4xl font-bold underline mb-10">
         JOIN THE MOVEMENT
       </h4>
       <p className="text-center text-lg font-light">

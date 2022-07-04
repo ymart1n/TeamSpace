@@ -1,6 +1,6 @@
 import React from "react";
 import { Donation } from "../types";
-import logo from "../TeamSeasLogo_circle.png";
+import logo from "../TeamSpaceLogo_circle.png";
 import { formatDate } from "../utils/formatDate";
 
 interface Props {

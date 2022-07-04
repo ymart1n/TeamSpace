@@ -8,6 +8,10 @@
   }
 }
 
+#root {
+  background-color: #dbedf3;
+}
+
 input[type="radio"]:checked + span {
   display: block;
 }
