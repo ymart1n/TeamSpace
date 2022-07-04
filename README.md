@@ -30,7 +30,7 @@
 
 - Mission & Live Donation Counter
 
-![](https://i.imgur.com/gRh0MCV.png)
+![](https://i.imgur.com/vF9NYgf.gif)
 
 ### Create Donation
 
