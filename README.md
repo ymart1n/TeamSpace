@@ -19,6 +19,7 @@
 >
 > ```shell
 >   cd teamspace-api
+>   npm install
 >   npm run dev
 > ```
 >
